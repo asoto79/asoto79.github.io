@@ -1,14 +1,5 @@
 <html>
         <div class="container"> 
-            <div class="header">
-                <div class="header-right">
-                  <a class="active" href="C:\Users\futbo\ITS_110\Stars_Project\Main_Stars.html">Home</a>
-                  <a href="C:\Users\futbo\ITS_110\Stars_Project\Orgs_Stars.html">Organizations</a>
-                  <a href="C:\Users\futbo\ITS_110\Stars_Project\Characters_Stars.html">Characters</a>
-                  <a href="C:\Users\futbo\ITS_110\Stars_Project\Lore_Stars.html">Lore</a>
-                  <a href="C:\Users\futbo\ITS_110\Stars_Project\Timeline_Stars.html">Timeline</a>
-                </div>
-            </div>
             <div class="body">
                 <h1>Tony's Totally Tubular Website</h1>
                 <div class="box">
@@ -18,7 +9,9 @@
                 <br>
                 <div class="box">
                     <h3>My Favorite Playlists</h3>
-                    <p> In case you are interested in what type of music gets me through my</p>
+                    <p> In case you are interested in what type of music gets me through my day to day life.</p>
+                        <br>
+                    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3TuLB3PKrFxYmqk8zkqfJv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>    
                 </div>
             </div>
 
