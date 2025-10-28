@@ -1,12 +1,5 @@
 # Tony's Totally Tubular Website
 This is my (totally NOT janky) website
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width initial-scale=1.0">
-        <title>Lost in the Stars</title>
-        <link rel="stylesheet" type="text/css" href=Stars_Project_CSS/Main_Stars.css>
     </head>
     <div class="container"> 
         <div class="header">
@@ -19,11 +12,9 @@ This is my (totally NOT janky) website
             </div>
           </div>
             <div class="body">
-                <h1>Welcome to Lost in the Stars</h1>
+                <h1>Tony's Totally Tubular Website</h1>
                 <div class="box">
-                    <p><h4>What is Lost in the Stars</h4>
-                        Lost in the Stars or its full name 6 Men Lost in the Stars is the story of 6 men all connected by blood and who their stories effect each other and the people around them.
-                        Click on the links on the top to explore different aspects of the 6 stories of these men lost in the stars.
+                    <p><h4>This is a totally legit (AND NOT janky) website for your favorite coworker</h4>
                     </p>
                 </div>
                 <br>
