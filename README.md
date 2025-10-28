@@ -1,6 +1,4 @@
-# Tony's Totally Tubular Website
-This is my (totally NOT janky) website
-    </head>
+ </head>
     <div class="container"> 
         <div class="header">
             <div class="header-right">
