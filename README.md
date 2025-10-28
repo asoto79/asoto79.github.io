@@ -21,5 +21,4 @@
                     <p> In case you are interested in what type of music gets me through my</p>
                 </div>
             </div>
-    </body>
-</html>
+
