@@ -3,8 +3,7 @@
             <div class="body">
                 <h1>Tony's Totally Tubular Website</h1>
                 <div class="box">
-                    <p><h4>This is a totally legit (AND NOT janky) website for your favorite coworker</h4>
-                    </p>
+                    <p>This is a totally legit (AND NOT janky) website for your favorite coworker.</p>
                 </div>
                 <br>
                 <div class="box">
